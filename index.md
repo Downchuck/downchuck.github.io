@@ -11,11 +11,23 @@ title: downchuck.github.io ~ Downchuck
 
 There are a few trends in web development which help with distributed teams and continuous deployment.
 
-### Container 
+#### Container 
+
 * docker.io
 
-### Code
+
+### Reviewing
+
+These tools seem to be popular from the Android ecosystem.
+
+#### Code
 * gerrit
+
+#### Build
+* buck
+
+#### DCVS
+* git + repo
 
 
 
