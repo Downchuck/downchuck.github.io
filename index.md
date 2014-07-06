@@ -1,6 +1,7 @@
 ---
-layout: index
 title: downchuck.github.io ~ Downchuck
+layout: index
+markdown: kramdown
 ---
 
 
